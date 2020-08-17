@@ -1,0 +1,23 @@
+{
+  "name": "plazmahu.github.io",
+  "version": "1.0.0",
+  "description": "Learn to code",
+  "main": "index.js",
+  "dependencies": {
+    "font-awesome": "^4.7.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/plazmahu/plazmahu.github.io.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/plazmahu/plazmahu.github.io/issues"
+  },
+  "homepage": "https://github.com/plazmahu/plazmahu.github.io#readme"
+}
